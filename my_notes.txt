@@ -1,0 +1,3 @@
+Soy Patrick Luna y esta es mi primera nota personal.
+Hoy aprendí sobre operaciones de archivos en Python.
+Espero continuar mejorando mis habilidades de programación.
